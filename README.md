@@ -1,7 +1,3 @@
-# Vanilla-Minecraft
-
-Basic Vanilla Minecraft
-
 ## Basic Vanilla Minecraft Setup
 
 **// update software repositories**
